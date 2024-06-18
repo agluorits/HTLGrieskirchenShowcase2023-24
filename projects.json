@@ -1,0 +1,35 @@
+[   
+  
+  {
+    "title": "CalLuna",
+    "folder": "RoitingerD190181_CalLuna",
+    "author": "Roitinger David",
+    "year": "2023_WS",
+    "info": "Laser Spiders! Because why not?",
+    "status": "1"
+  },
+  {
+    "title": "OperationDuck",
+    "folder": "GierlingerJ190258_OperationDuck",
+    "author": "Gierlinger Jakob",
+    "year": "2023_WS",
+    "info": "Stealth Game! UwU",
+    "status": "1"
+  },  
+  {
+    "title": "Tetris",
+    "folder": "NeuwirthF190198_Tetris",
+    "author": "Neuwirth Fabian",
+    "year": "2023_WS",
+    "info": "Some kind of a copy of Tetris",
+    "status": "1"
+  },
+  {
+    "title": "TowerDefence",
+    "folder": "HintereggerJ190292TowerDefence",
+    "author": "Hinteregger Jeronimo",
+    "year": "2023_WS",
+    "info": "Tower Defence Game! :3",
+    "status": "1"
+  }
+]
